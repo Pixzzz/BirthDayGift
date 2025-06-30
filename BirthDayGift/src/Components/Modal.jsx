@@ -3,7 +3,7 @@ export const Modal = ({ isOpen, OnClose }) => {
   if (!isOpen) return null;
   return (
     <>
-      <div className="fixed inset-0 flex justify-center items-center backdrop-blur-sm bg-black/30 Z-50 animate-fade">
+      <div className="fixed inset-0 flex justify-center items-center backdrop-blur-sm bg-black/30 Z-50 animate-fade z-50">
         <div className="bg-white w-full max-w-lg h-9/12">
           <button
             onClick={OnClose}
