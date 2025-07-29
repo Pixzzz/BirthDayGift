@@ -12,10 +12,14 @@ export const Modal = ({ isOpen, OnClose }) => {
             <CloseIcon />
           </button>
           <p className="text-center font-semibold text-lg p-10">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Hola ser enano que rapté para que sea mi be fren, 1ro hapi verdi,
+            espero que sigas cumpliendo muchos años de tu bella vida, agradecido
+            toy' de tener como mi be fren y de las personas mas especiles que
+            tengo, y que confio tamb lol, a pesar de la mrd que soy, sigue
+            viviendo y cumpliendo ma' año de vida, si? Gracias. TE
+            QUIEROOOOOOOOOOOOOOOOOOOOOOOOOOOO <br />
+            <span className=" text-4xl">♡</span> <br /> (cuando cobre
+            o pueda te doy tus robux)
           </p>
         </div>
       </div>
