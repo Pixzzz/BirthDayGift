@@ -17,7 +17,7 @@ function App() {
       <body className="bg-pink-400 overflow-hidden">
         <div className="flex flex-col items-center justify-center h-screen -mt-10">
           <img
-            src="src/assets/pngegg (1).png"
+            src="/pngegg (1).png"
             alt=""
             className="h-40 lg:h-50"
           />
